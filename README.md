@@ -13,11 +13,17 @@ Create new events
 View all events
 Delete events
 Dashboard with statistics (Total Events, Registrations)
+<img width="1280" height="916" alt="scrnli_eh0M1oIjfi0t83" src="https://github.com/user-attachments/assets/6508c984-c0b4-4836-a23a-b99d460d07bc" />
+
 
 🎓 Student Panel (Upcoming / Extendable)
+<img width="1280" height="916" alt="scrnli_eh0M1oIjfi0t83" src="https://github.com/user-attachments/assets/bf773a7d-c98f-45d9-aee4-654acab9d11f" />
+
 View available events
 Register for events
 Free & Paid event handling
+<img width="1280" height="1014" alt="scrnli_YYZ1cmWP2HqAXn" src="https://github.com/user-attachments/assets/4447acad-e553-4850-8521-8bcb777e99ea" />
+
 Notification system (Email/SMS)
 🛠️ Technologies Used
 Backend: PHP (Laravel 13)
